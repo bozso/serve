@@ -3,6 +3,7 @@ import prologue
 # Create default settings
 let settings = newSettings()
 
+u
 # Create instance
 var app = newApp(settings = settings)
 
